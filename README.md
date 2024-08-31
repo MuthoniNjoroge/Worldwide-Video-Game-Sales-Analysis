@@ -17,7 +17,7 @@ The primary goals of this project were to:
 - **DAX (Data Analysis Expressions) **: To perform complex calculations
 
 ## Key Analyses and Visualizations
-![](games.jpg)
+![](games.png)
 ### 1. Top-Selling Titles Worldwide
 To showcase the best-selling video game titles, I created a **pie chart** highlighting the top three titles: **Call of Duty: Black Ops**, **Call of Duty: Modern Warfare**, and **Grand Theft Auto V**. This visualization helps in understanding which titles dominated the market and how they compare to other high-performing games.
 
