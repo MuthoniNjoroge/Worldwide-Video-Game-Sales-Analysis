@@ -1,6 +1,7 @@
 
-# 🎮 Video Game![games ](https://github.com/user-attachments/assets/7ca3d76a-1d2c-4a72-9fa0-0e45973b7af7)
- Sales Analysis (1971-2024) 🚀
+# 🎮 Video GameSales Analysis (1971-2024) 🚀
+![games ](https://github.com/user-attachments/assets/7ca3d76a-1d2c-4a72-9fa0-0e45973b7af7)
+
 ## Introduction
 
 This project dives deep into the fascinating world of video game sales, offering insights into top-selling titles, sales trends, genre specialization by consoles, and regional popularity of games. By leveraging the power of DAX for advanced calculations and data exploration, this project aims to answer critical business questions in the video game industry.
@@ -16,8 +17,9 @@ The primary goals of this project were to:
 - **Excel**: For data visualization and analysis
 - **DAX (Data Analysis Expressions) **: To perform complex calculations
 
+
 ## Key Analyses and Visualizations
-![](games.png)
+![project](https://github.com/user-attachments/assets/cb0f8135-b404-46d4-9ba7-a26fdb45cb9c)
 ### 1. Top-Selling Titles Worldwide
 To showcase the best-selling video game titles, I created a **pie chart** highlighting the top three titles: **Call of Duty: Black Ops**, **Call of Duty: Modern Warfare**, and **Grand Theft Auto V**. This visualization helps in understanding which titles dominated the market and how they compare to other high-performing games.
 
