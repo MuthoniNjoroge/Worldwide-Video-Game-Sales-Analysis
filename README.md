@@ -1,6 +1,6 @@
 
-# 🎮 Video Game Sales Analysis (1971-2024) 🚀
-![](games.jpg)
+# 🎮 Video Game![games ](https://github.com/user-attachments/assets/7ca3d76a-1d2c-4a72-9fa0-0e45973b7af7)
+ Sales Analysis (1971-2024) 🚀
 ## Introduction
 
 This project dives deep into the fascinating world of video game sales, offering insights into top-selling titles, sales trends, genre specialization by consoles, and regional popularity of games. By leveraging the power of DAX for advanced calculations and data exploration, this project aims to answer critical business questions in the video game industry.
